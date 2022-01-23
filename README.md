@@ -33,7 +33,7 @@
 ### Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="175" m src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTien1005&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&hide=html" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTien1005&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&hide=html" />
 </a>
 
 
