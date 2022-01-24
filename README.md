@@ -1,7 +1,7 @@
 ### Hi 👋 , I'm Nguyen Hoang Tien 
 
-- 🌱  I’m currently a Junior at Ho Chi Minh University of Science
-- 🧑‍💻  I'm developing myself every day, improving my knowledge and skills of programming to become a highly qualified software engineer
+- I’m currently a Junior at Ho Chi Minh University of Science
+- I'm developing myself every day, improving my knowledge and skills of programming to become a highly qualified software engineer
 
 
 ### Connect with me:
