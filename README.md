@@ -46,39 +46,52 @@
 
 
 ### Stats:
+  
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=hoangtien1005&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+ -->
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HoangTien1005&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=HoangTien1005&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true" />
+</a>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTien1005&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&langs_count=10&exclude_repo=love-travel" />
 </a>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTien1005&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&hide=html" />
-</a>
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=hoangtien1005&no-frame=true&no-bg=true&theme=algolia&column=7&margin-w=15" />
+</a> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=hoangtien1005&theme=minimal" />
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangtien1005&theme=vue" />
-</a>
+<!-- <div align="center">
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hoangtien1005&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+  
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=hoangtien1005&no-frame=true&no-bg=true&theme=algolia&column=7&margin-w=15&margin-h=30" />
+  </a>
+  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+| <a href="https://github.com/hoangtien1005"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangtien1005&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true" alt="hoangtien1005's github stats" /></a> | <a href="https://github.com/hoangtien1005"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTien1005&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&langs_count=10&exclude_repo=love-travel" /></a> |
+| ------------- | ------------- |
+
+
+</div> -->
+
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoangtien10051212%2Fhit-counter" />
-</a>
+</a> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtien1005" />
-</a>
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=hoangtien1005&no-bg=true&theme=algolia&column=7" />
-</a>
 
 <br>
 
 
 
-
- -->
