@@ -58,7 +58,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTien1005&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&langs_count=10&exclude_repo=love-travel" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTien1005&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&langs_count=10&exclude_repo=love-travel,shopee" />
 </a>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -79,7 +79,7 @@
   
 
 
-| <a href="https://github.com/hoangtien1005"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangtien1005&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true" alt="hoangtien1005's github stats" /></a> | <a href="https://github.com/hoangtien1005"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTien1005&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&langs_count=10&exclude_repo=love-travel" /></a> |
+| <a href="https://github.com/hoangtien1005"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangtien1005&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true" alt="hoangtien1005's github stats" /></a> | <a href="https://github.com/hoangtien1005"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTien1005&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&langs_count=10&exclude_repo=love-travel,shopee" /></a> |
 | ------------- | ------------- |
 
 
