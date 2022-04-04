@@ -54,7 +54,7 @@
  
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=HoangTien1005&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hoangtien1005&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
