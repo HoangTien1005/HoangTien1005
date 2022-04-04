@@ -47,10 +47,10 @@
 
 ### Stats:
   
-<!-- <p align="left">
+<p align="left">
   <img src="https://github.com/hoangtien1005/github-stats/blob/master/generated/overview.svg">
   <img src="https://github.com/hoangtien1005/github-stats/blob/master/generated/languages.svg">
-</p> -->
+</p>
  
 
 <a href="https://github.com/anuraghazra/convoychat">
