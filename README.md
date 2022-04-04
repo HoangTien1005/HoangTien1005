@@ -62,9 +62,12 @@
 </a>
 
 
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=hoangtien1005&no-frame=true&no-bg=true&theme=algolia&column=7&margin-w=15" />
+</a>
 
 
-<!--  ![](https://github.com/hoangtien1005/github-stats/blob/master/generated/overview.svg)
+ ![](https://github.com/hoangtien1005/github-stats/blob/master/generated/overview.svg)
  
  ![](https://github.com/hoangtien1005/github-stats/blob/master/generated/languages.svg)
 
