@@ -53,13 +53,13 @@
 </p>
  
 
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hoangtien1005&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=hoangtien1005&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
+</a> -->
 
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
